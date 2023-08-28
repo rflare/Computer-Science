@@ -7,3 +7,6 @@ tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
 private/
+content/.gitignore
+docs/
+.github/ISSUE_TEMPLATE
