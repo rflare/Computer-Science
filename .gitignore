@@ -9,6 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/.gitignore
 docs/
 .github/ISSUE_TEMPLATE

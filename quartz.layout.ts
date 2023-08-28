@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/bassemfarid/Computer-Science-Content",
+      "Contribute": "CONTRIBUTING",
       "Contact": "emailto:faridb@hdsb.ca",
     },
   }),
